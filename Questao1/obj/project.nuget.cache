@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "7u/rWevOF0o=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Geovani\\Desktop\\Workspace\\nivelamento\\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\\Questao1\\Questao1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Geovani\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.32\\microsoft.windowsdesktop.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\Geovani\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.32\\microsoft.netcore.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\Geovani\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.32\\microsoft.aspnetcore.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\Geovani\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.32\\microsoft.netcore.app.host.win-x64.6.0.32.nupkg.sha512"
+  ],
+  "logs": []
+}
